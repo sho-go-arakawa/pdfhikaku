@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+pdfhikaku.egg-info/PKG-INFO
+pdfhikaku.egg-info/SOURCES.txt
+pdfhikaku.egg-info/dependency_links.txt
+pdfhikaku.egg-info/requires.txt
+pdfhikaku.egg-info/top_level.txt

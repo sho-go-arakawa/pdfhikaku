@@ -1,0 +1,51 @@
+extract:
+  engine_priority: [pymupdf, pdfminer, ocr]
+  ocr_lang: jpn+eng
+  max_pages: null  # null means no limit
+  remove_patterns:
+    - "^(ページ\\s*\\d+|Page \\d+)$"
+    - "^(株式会社|Co\\.?\\s*Ltd\\.?|Corp\\.?).*$"
+
+chunk:
+  max_tokens: 800
+  sentence_split: true
+  overlap_tokens: 50
+  min_chunk_size: 100
+
+align:
+  title_weight: 0.4
+  embed_weight: 0.6
+  string_weight: 0.4
+  exact_threshold: 0.92
+  partial_threshold: 0.75
+  gap_penalty: 0.15
+  embedding_model: "sentence-transformers/all-MiniLM-L6-v2"  # Local model
+  use_openai: false
+  openai_model: "text-embedding-3-small"
+
+perf:
+  workers: 4
+  mmap: true
+  cache_dir: ".cache"
+  max_memory_mb: 2048
+  chunk_batch_size: 32
+
+report:
+  export: [html, csv, pdf]
+  include_env: true
+  include_config_hash: true
+  template_dir: "assets"
+
+ui:
+  layout: "wide"
+  sidebar_width: 300
+  max_file_size_mb: 100
+  supported_formats: ["pdf"]
+  theme: "light"
+
+logging:
+  level: "INFO"
+  file: "logs/app.log"
+  max_size_mb: 10
+  backup_count: 3
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

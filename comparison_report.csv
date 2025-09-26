@@ -1,0 +1,613 @@
+Type,ID_A,ID_B,Title_A,Title_B,Similarity_%,Match_Type,Level,Paragraph_Count
+Section,section_137,section_152,ハンドル,ハンドル,100.0,exact,1,1
+Section,section_182,section_196,フォグランプスイッチ,フォグランプスイッチ,100.0,exact,1,1
+Section,section_183,section_197,ワイパー& ウォッシャー（フロント）,ワイパー& ウォッシャー（フロント）,100.0,exact,1,1
+Section,section_184,section_198,ワイパー& ウォッシャー（リヤ）,ワイパー& ウォッシャー（リヤ）,100.0,exact,1,1
+Section,section_242,section_273,内装の手入れ,内装の手入れ,100.0,exact,1,2
+Section,section_40,section_58,警告灯／表示灯,警告灯／表示灯,100.0,exact,1,1
+Section,section_118,section_133,ドア（フロントドア、リヤドア）,ドア（フロントドア、リヤドア）,100.0,exact,1,1
+Section,section_130,section_145,フロントシート,フロントシート,100.0,exact,1,1
+Section,section_138,section_153,インナーミラー,インナーミラー,100.0,exact,1,1
+Section,section_139,section_154,ドアミラー,ドアミラー,100.0,exact,1,1
+Section,section_185,section_199,給油口の開け方,給油口の開け方,100.0,exact,1,1
+Section,section_231,section_261,シートヒーター,シートヒーター,100.0,exact,1,1
+Section,section_248,section_280,ウォッシャー液の補充,ウォッシャー液の補充,100.0,exact,1,1
+Section,section_257,section_294,タイヤ空気圧について,タイヤ空気圧について,100.0,exact,1,1
+Section,section_13,section_13,運転する前に,運転する前に,100.0,exact,1,1
+Section,section_20,section_21,SRS エアバッグ,SRS エアバッグ,100.0,exact,1,2
+Section,section_32,section_22,排気ガスに対する注意,排気ガスに対する注意,100.0,exact,1,1
+Section,section_68,section_84,計器類,計器類,100.0,exact,1,1
+Section,section_142,section_156,パワーウインドウ,パワーウインドウ,100.0,exact,1,1
+Section,section_175,section_189,パーキングブレーキ,パーキングブレーキ,100.0,exact,1,1
+Section,section_206,section_225,オートマチックハイビーム,オートマチックハイビーム,100.0,exact,1,1
+Section,section_247,section_279,ガレージジャッキ,ガレージジャッキ,100.0,exact,1,1
+Section,section_314,section_354,ションディスプレイ装着車）,ションディスプレイ装着車）,100.0,exact,4,1
+Section,section_241,section_272,外装の手入れ,外装の手入れ,72.0,exact,1,1
+Section,section_17,section_17,シートベルト,シートベルト,71.59,exact,1,1
+Section,section_1,section_1,TABLE OF CONTENTS 㸭,TABLE OF CONTENTS 㸭,61.31,exact,6,1
+Section,section_10,section_10,イラスト目次,イラスト目次,58.54,exact,1,1
+Section,section_37,section_52,イモビライザーシステム,イモビライザーシステム,58.51,exact,1,1
+Section,section_2,section_2,TABLE OF CONTENTS 㸭,TABLE OF CONTENTS 㸭,54.34,exact,6,1
+Section,section_225,section_254,オートエアコン,オートエアコン,53.82,exact,1,1
+Section,section_21,section_23,お子さまの安全のために,お子さまを乗せるときは,47.96,partial,1,1
+Section,section_258,section_295,エアコンフィルターの交換,エアコンフィルターの交換,41.95,exact,1,1
+Section,section_235,section_265,収納装備一覧,収納装備一覧,35.94,exact,1,1
+Section,section_33,section_48,ハイブリッドシステムの特徴,ハイブリッドシステムの特徴,29.78,exact,1,1
+Section,section_297,section_335,けん引について,けん引について,27.33,exact,1,1
+Section,section_210,section_230,クルーズコントロール,クルーズコントロール,23.97,exact,1,1
+Section,section_121,section_137,バックドア,バックドア,22.28,exact,1,1
+Section,section_151,section_165,荷物を積むときの注意,荷物を積むときの注意,21.71,exact,1,2
+Section,section_107,section_124,2. 計器の見方,2. 計器の見方,20.05,exact,2,1
+Section,section_115,section_130,キー,キー,14.79,exact,1,1
+Section,section_35,section_50,520 Vや冷却用ラジエーターなどの高温部位がありますのでご注,520 Vや冷却用ラジエーターなどの高温部位がありますのでご注,13.91,exact,2,1
+Section,section_167,section_181,EV ドライブモード,EV ドライブモード,12.61,exact,1,1
+Section,section_195,section_221,1 マルチインフォメーションディスプ,1 マルチインフォメーションディスプ,12.17,exact,2,3
+Section,section_186,section_201,Toyota Safety Sense C,Toyota Safety Sense,12.08,exact,1,1
+Section,section_148,section_162,運転にあたって,運転にあたって,11.16,exact,1,3
+Section,section_249,section_281,タイヤについて,タイヤについて,10.07,exact,1,1
+Section,section_87,section_101,2. 計器の見方,2. 計器の見方,9.65,exact,2,2
+Section,section_237,section_268,その他の室内装備,その他の室内装備,9.49,exact,1,1
+Section,section_378,section_209,1 マルチインフォメーションディスプレ,1 マルチインフォメーションディ,9.04,exact,2,1
+Section,section_124,section_140,スマートエントリー＆スタートシステム,スマートエントリー＆スタートシステム,8.21,exact,1,2
+Section,section_133,section_33,ヘッドレスト,1 ヘッドレスト調整式,7.57,exact,1,1
+Section,section_221,section_250,寒冷時の運転,寒冷時の運転,7.55,exact,1,1
+Section,section_260,section_297,ヒューズの点検、交換,ヒューズの点検、交換,1.83,exact,1,20
+Section,section_23,section_146,子供専用シート,リヤシート,1.77,partial,1,2
+Section,section_136,section_151,ヘッドレストを取り付け穴に合わせて、2,ヘッドレストを取り付け穴に合わせて、2,0.0,exact,6,0
+Section,section_301,section_340,けん引フックの使用目的,けん引フックの使用目的,0.0,exact,2,0
+Section,section_4,section_4,開発・品質の向上を目的に取得・利用することがあります,開発・品質の向上を目的に取得・利用することがあります,0.0,exact,2,1
+Section,section_8,section_8,本書の見方,本書の見方,0.0,exact,1,0
+Section,section_9,section_9,検索のしかた,検索のしかた,0.0,exact,1,0
+Section,section_11,section_11,安全・安心のために,安全・安心のために,0.0,exact,4,0
+Section,section_18,section_18,着用のしかた,着用のしかた,0.0,exact,6,0
+Section,section_19,section_19,分離・格納のしかた,分離・格納のしかた,0.0,exact,6,0
+Section,section_36,section_51,ハイブリッドシステムの注意,ハイブリッドシステムの注意,0.0,exact,1,1
+Section,section_88,section_102,マルチインフォメーションディスプレイ,マルチインフォメーションディスプレイ,0.0,exact,1,0
+Section,section_94,section_107,AVG,AVG,0.0,exact,6,0
+Section,section_99,section_112,5 分間1 分間燃費,5 分間1 分間燃費,0.0,exact,2,0
+Section,section_100,section_113,1 分刻み表示の場合までの燃費と比較することができます,1 分刻み表示の場合までの燃費と比較することができます,0.0,exact,2,0
+Section,section_104,section_119,消費金額・お得金額はエコジャッジの評価点とはリンクしない場合がありま,消費金額・お得金額はエコジャッジの評価点とはリンクしない場合がありま,0.0,exact,2,0
+Section,section_114,section_129,各部の操作,各部の操作,0.0,exact,4,0
+Section,section_134,section_149,ロック解除ノブを引き、背もたれを前に倒1,ロック解除ノブを引き、背もたれを前に倒1,0.0,exact,6,0
+Section,section_135,section_150,ロック解除ノブを引き、背もたれを前に倒1,ロック解除ノブを引き、背もたれを前に倒1,0.0,exact,6,0
+Section,section_192,section_206,開発・品質の向上を目的に取得・利用することがあります,開発・品質の向上を目的に取得・利用することがあります,0.0,exact,2,1
+Section,section_199,section_227,1 マルチインフォメーションディスプ,1 マルチインフォメーションディスプ,0.0,exact,2,1
+Section,section_201,section_220,機能概要,機能概要,0.0,exact,2,0
+Section,section_203,section_222,1 マルチインフォメーションディスプレイ非装着車,1 マルチインフォメーションディスプレイ非装着車,0.0,exact,2,1
+Section,section_211,section_232,機能概要,機能概要,0.0,exact,2,1
+Section,section_214,section_226,1 マルチインフォメーションディスプレイ非装着車,1 マルチインフォメーションディスプレイ非装着車,0.0,exact,2,1
+Section,section_222,section_251,1 輪止めはトヨタ販売店で購入することができます,1 輪止めはトヨタ販売店で購入することができます,0.0,exact,2,1
+Section,section_223,section_252,2 ブレーキペダルを踏まないでP からシフトするときにロックがかかりますシ,2 ブレーキペダルを踏まないでP からシフトするときにロックがかかりますシ,0.0,exact,2,1
+Section,section_240,section_271,お手入れのしかた,お手入れのしかた,0.0,exact,4,0
+Section,section_259,section_296,キーの電池交換,キーの電池交換,0.0,exact,1,1
+Section,section_264,section_301,ソケットを取りはずす2,ソケットを取りはずす2,0.0,exact,6,0
+Section,section_266,section_303,電球を交換し、ソケットを取り4,電球を交換し、ソケットを取り4,0.0,exact,6,0
+Section,section_269,section_306,ソケットを取りはずす1,ソケットを取りはずす1,0.0,exact,6,0
+Section,section_273,section_310,ソケットを取りはずす1,ソケットを取りはずす1,0.0,exact,6,0
+Section,section_277,section_314,バックドアを開け、ボルト（21,バックドアを開け、ボルト（21,0.0,exact,6,0
+Section,section_278,section_315,ソケットを取りはずす2,ソケットを取りはずす2,0.0,exact,6,0
+Section,section_284,section_321,レンズを取り外す1,レンズを取り外す1,0.0,exact,6,1
+Section,section_306,section_345,1 ブレーキ警告ブザー,1 ブレーキ警告ブザー,0.0,exact,2,0
+Section,section_307,section_346,2 警告灯の点灯に合わせて警告ブザーが鳴ります,2 警告灯の点灯に合わせて警告ブザーが鳴ります,0.0,exact,2,0
+Section,section_335,section_376,35 分以上充填しても指定空気圧に,35 分以上充填しても指定空気圧に,0.0,exact,2,0
+Section,section_360,section_404,タイヤチェーンを前輪に装着する3,タイヤチェーンを前輪に装着する3,0.0,exact,6,0
+Section,section_369,section_414,シフトレバーがP の状態でブレーキをしっかり踏む1,シフトレバーがP の状態でブレーキをしっかり踏む1,0.0,exact,6,0
+Section,section_370,section_415,ブレーキペダルをしっかりと踏み込んで、スマートエントリー＆ス3,ブレーキペダルをしっかりと踏み込んで、スマートエントリー＆ス3,0.0,exact,6,0
+Section,section_372,section_417,パワースイッチを短く確実に押す4,パワースイッチを短く確実に押す4,0.0,exact,6,0
+Section,section_380,section_426,車両情報,車両情報,0.0,exact,4,0
+Section,section_402,section_453,2 電球のみの交換はできないためトヨタ販売店にご連絡ください,2 電球のみの交換はできないためトヨタ販売店にご連絡ください,0.0,exact,2,0
+Section,section_403,section_454,1.5L ガソリン,1.5L ガソリン,0.0,exact,2,0
+Section,section_407,section_455,30 秒,30 秒,0.0,exact,2,0
+Section,section_408,section_456,60 秒,60 秒,0.0,exact,2,0
+Section,section_417,section_468,さくいん,さくいん,0.0,exact,4,0
+Section,section_422,section_473,施錠・解錠できない,施錠・解錠できない,0.0,exact,6,0
+Section,section_423,section_475,リヤドアが開かない,リヤドアが開かない,0.0,exact,6,0
+Section,section_425,section_477,（スマートエントリー& スタートシステム非装着車）,（スマートエントリー& スタートシステム非装着車）,0.0,exact,6,0
+Section,section_430,section_484,パワースイッチが自動的にOFF になった,パワースイッチが自動的にOFF になった,0.0,exact,6,0
+Section,section_433,section_487,警告音・アラーム・ホーンが鳴りだした,警告音・アラーム・ホーンが鳴りだした,0.0,exact,6,0
+Section,section_459,section_512,給油や交換などの際に必要になる項目をまとめてあります,給油や交換などの際に必要になる項目をまとめてあります,0.0,exact,2,0
+Section,section_3,section_3,知っておいていただきたいこと,知っておいていただきたいこと,0.0,exact,1,1
+Section,section_5,section_5,統計的な処理を行う目的で使用者や車両が特定されないように加,統計的な処理を行う目的で使用者や車両が特定されないように加,0.0,exact,2,0
+Section,section_6,section_6,使用者・車両が特定されないデータを調査目的で第三者に開示するこ,使用者・車両が特定されないデータを調査目的で第三者に開示するこ,0.0,exact,2,1
+Section,section_12,section_12,～必ずお読みください～,～必ずお読みください～,0.0,exact,6,0
+Section,section_31,section_176,P. 132,P. 132,0.0,exact,2,0
+Section,section_38,section_56,メーターの見方,メーターの見方,0.0,exact,4,0
+Section,section_56,section_470,P. 173,P. 173,0.0,exact,2,0
+Section,section_65,section_81,4 外気温が約3 以下のとき約10 秒間点滅後に点灯します,4 外気温が約3 以下のとき約10 秒間点滅後に点灯します,0.0,exact,2,0
+Section,section_97,section_93,P. 94,P. 94,0.0,exact,2,0
+Section,section_103,section_118,走行条件や環境によって評価点は変化しますそのため燃費とリンクしない場,走行条件や環境によって評価点は変化しますそのため燃費とリンクしない場,0.0,exact,2,0
+Section,section_109,section_125,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_110,section_128,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_117,section_192,P. 301,P. 301,0.0,exact,2,0
+Section,section_122,section_131,P. 115,P. 115,0.0,exact,2,1
+Section,section_125,section_141,5 日間以上スマートエントリースタートシステムを使用しなかった,5 日間以上スマートエントリースタートシステムを使用しなかった,0.0,exact,2,1
+Section,section_152,section_166,パワー（イグニッション）スイッチ,パワー（イグニッション）スイッチ,0.0,exact,4,0
+Section,section_157,section_171,パワー（イグニッション）スイッチ,パワー（イグニッション）スイッチ,0.0,exact,4,0
+Section,section_179,section_193,ランプスイッチ,ランプスイッチ,0.0,exact,1,1
+Section,section_193,section_207,統計的な処理を行う目的で使用者や車両が特定されないように加,統計的な処理を行う目的で使用者や車両が特定されないように加,0.0,exact,2,0
+Section,section_194,section_208,1 規格におけるレーザー等級1M に相当します通常の使用においてレーザー,1 規格におけるレーザー等級1M に相当します通常の使用においてレーザー,0.0,exact,2,1
+Section,section_200,section_219,LDA（レーンディパーチャーアラート／車線逸脱警報）,LDA（レーンディパーチャーアラート／車線逸脱警報）,0.0,exact,4,1
+Section,section_218,section_246,ハイブリッド車運転のアドバイス,ハイブリッド車運転のアドバイス,0.0,exact,1,1
+Section,section_226,section_255,を押す1,を押す1,0.0,exact,6,0
+Section,section_227,section_256,温度を設定する2,温度を設定する2,0.0,exact,6,0
+Section,section_232,section_262,室内灯一覧,室内灯一覧,0.0,exact,1,1
+Section,section_234,section_139,P. 119,P. 119,0.0,exact,2,1
+Section,section_244,section_276,ボンネット,ボンネット,0.0,exact,1,1
+Section,section_250,section_284,15 5 12J,15 5 12J,0.0,exact,2,1
+Section,section_262,section_299,電球（バルブ）の交換,電球（バルブ）の交換,0.0,exact,1,1
+Section,section_263,section_300,カバーをはずす1,カバーをはずす1,0.0,exact,6,0
+Section,section_265,section_302,電球を取りはずす3,電球を取りはずす3,0.0,exact,6,0
+Section,section_267,section_304,ソケットをまわして固定する5,ソケットをまわして固定する5,0.0,exact,6,0
+Section,section_270,section_307,電球を取りはずす2,電球を取りはずす2,0.0,exact,6,0
+Section,section_274,section_311,電球を取りはずす2,電球を取りはずす2,0.0,exact,6,0
+Section,section_276,section_313,フロント方向指示灯／非常点滅灯,フロント方向指示灯／非常点滅灯,0.0,exact,6,0
+Section,section_279,section_316,電球を取りはずす3,電球を取りはずす3,0.0,exact,6,0
+Section,section_280,section_317,リヤ方向指示灯／非常点滅灯・後退灯,リヤ方向指示灯／非常点滅灯・後退灯,0.0,exact,6,0
+Section,section_282,section_319,電球とソケットを取り付けるときは、取りはずしたときと逆の手順4,電球とソケットを取り付けるときは、取りはずしたときと逆の手順4,0.0,exact,6,0
+Section,section_283,section_320,ランプ本体を取り付け、ボルト5,ランプ本体を取り付け、ボルト5,0.0,exact,6,0
+Section,section_285,section_322,電球を取りはずす2,電球を取りはずす2,0.0,exact,6,0
+Section,section_289,section_326,故障したときは,故障したときは,0.0,exact,1,1
+Section,section_291,section_328,非常点滅灯（ハザードランプ）,非常点滅灯（ハザードランプ）,0.0,exact,1,0
+Section,section_295,section_332,車両を緊急停止するには,車両を緊急停止するには,0.0,exact,1,0
+Section,section_298,section_337,0.3 m 平方30 cm30 cm以上,0.3 m 平方30 cm30 cm以上,0.0,exact,2,0
+Section,section_299,section_338,25 m 以内,25 m 以内,0.0,exact,2,0
+Section,section_302,section_341,警告灯がついたときは,警告灯がついたときは,0.0,exact,1,4
+Section,section_309,section_348,4 約６秒間表示されます,4 約６秒間表示されます,0.0,exact,2,0
+Section,section_311,section_350,6 シートベルト非着用警告ブザー,6 シートベルト非着用警告ブザー,0.0,exact,2,0
+Section,section_313,section_353,警告メッセージが表示されたときは（マルチインフォメー,警告メッセージが表示されたときは（マルチインフォメー,0.0,exact,4,0
+Section,section_317,section_357,2 約６秒間表示されます,2 約６秒間表示されます,0.0,exact,2,0
+Section,section_327,section_367,パンクしたときは（タイヤパンク応急修理キット,パンクしたときは（タイヤパンク応急修理キット,0.0,exact,1,1
+Section,section_328,section_368,装着車）,装着車）,0.0,exact,1,1
+Section,section_330,section_370,1 本のタイヤに2 箇所以上の切り傷や刺し傷があるとき,1 本のタイヤに2 箇所以上の切り傷や刺し傷があるとき,0.0,exact,2,1
+Section,section_357,section_401,103 N・m (1050 kgf・cm),103 N・m (1050 kgf・cm),0.0,exact,2,0
+Section,section_359,section_403,パンクした前輪をはずした後輪と交換する2,パンクした前輪をはずした後輪と交換する2,0.0,exact,6,0
+Section,section_361,section_405,ハイブリッドシステムが始動できないときは,ハイブリッドシステムが始動できないときは,0.0,exact,1,1
+Section,section_363,section_408,パーキングブレーキがかかっていることを確認する1,パーキングブレーキがかかっていることを確認する1,0.0,exact,6,0
+Section,section_365,section_410,パワースイッチをアクセサリーモードにする3,パワースイッチをアクセサリーモードにする3,0.0,exact,6,0
+Section,section_375,section_420,20 時間率容量が小さいと車両を使用していない期間が短い期間であって,20 時間率容量が小さいと車両を使用していない期間が短い期間であって,0.0,exact,2,1
+Section,section_376,section_421,オーバーヒートしたときは,オーバーヒートしたときは,0.0,exact,1,1
+Section,section_379,section_425,スタックしたときは,スタックしたときは,0.0,exact,1,0
+Section,section_386,section_432,5.3,5.3,0.0,exact,2,0
+Section,section_388,section_434,4.5,4.5,0.0,exact,2,0
+Section,section_391,section_437,2 ノッチとはパーキングブレーキをかけるときの節度 カチッ という,2 ノッチとはパーキングブレーキをかけるときの節度 カチッ という,0.0,exact,2,0
+Section,section_393,section_439,8 11,8 11,0.0,exact,2,0
+Section,section_395,section_442,15 5 12J,15 5 12J,0.0,exact,2,0
+Section,section_418,section_469,こんなときは（症状別さくいん）,こんなときは（症状別さくいん）,0.0,exact,1,1
+Section,section_421,section_472,キーをなくした,キーをなくした,0.0,exact,6,0
+Section,section_427,section_481,ブレーキペダルを踏んでいてもシフトレバーがP から動かない,ブレーキペダルを踏んでいてもシフトレバーがP から動かない,0.0,exact,6,0
+Section,section_428,section_482,ハイブリッドシステムを停止したあとにハンドルがまわせなくなっ,ハイブリッドシステムを停止したあとにハンドルがまわせなくなっ,0.0,exact,6,0
+Section,section_429,section_483,パワーウインドウスイッチを操作してもドアガラスが開閉しない,パワーウインドウスイッチを操作してもドアガラスが開閉しない,0.0,exact,6,0
+Section,section_434,section_488,警告灯や警告メッセージ（マルチインフォメーションディスプレイ,警告灯や警告メッセージ（マルチインフォメーションディスプレイ,0.0,exact,6,0
+Section,section_450,section_503,アルファベット順さくいん,アルファベット順さくいん,0.0,exact,1,1
+Section,section_458,section_233,P. 407,P. 407,0.0,exact,2,1
+Section,section_7,section_7,1 2 3,1 2 3,0.0,exact,6,0
+Section,section_14,section_14,安全なドライブのために,安全なドライブのために,0.0,exact,1,1
+Section,section_25,section_35,9 18kg,9 18kg,0.0,exact,2,0
+Section,section_39,section_57,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_41,section_59,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_46,section_64,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_51,section_67,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_61,section_77,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_64,section_80,3 システムがＯＦＦのときまたは一時的に作動しないときに点灯します,3 システムがＯＦＦのときまたは一時的に作動しないときに点灯します,0.0,exact,2,0
+Section,section_67,section_83,2. 計器の見方,2. 計器の見方,0.0,exact,2,2
+Section,section_73,section_89,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_74,section_90,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_76,section_92,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_80,section_94,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_81,section_95,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_82,section_96,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_83,section_97,◆★,◆★,0.0,exact,4,0
+Section,section_84,section_98,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_85,section_99,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_86,section_100,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_91,section_105,2. 計器の見方,2. 計器の見方,0.0,exact,2,0
+Section,section_92,section_108,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_95,section_109,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_96,section_111,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_98,section_114,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_101,section_117,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_102,section_120,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_105,section_121,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_106,section_122,2. 計器の見方,2. 計器の見方,0.0,exact,2,1
+Section,section_108,section_123,エネルギーモニター／燃費画面,エネルギーモニター／燃費画面,0.0,exact,1,1
+Section,section_111,section_126,8 段階に変化します,8 段階に変化します,0.0,exact,2,0
+Section,section_119,section_135,ドアハンドルを引いたままドアを閉める2,ドアハンドルを引いたままドアを閉める2,0.0,exact,6,0
+Section,section_126,section_142,14 日間以上スマートエントリースタートシステムを使用しなかった場合運,14 日間以上スマートエントリースタートシステムを使用しなかった場合運,0.0,exact,2,0
+Section,section_144,section_158,パワーウインドウスイッチを「自動全閉」の位置で引き続け、ドアガラスを全2,パワーウインドウスイッチを「自動全閉」の位置で引き続け、ドアガラスを全2,0.0,exact,6,0
+Section,section_145,section_159,いったんパワーウインドウスイッチから手を離して、再度パワーウインドウス3,いったんパワーウインドウスイッチから手を離して、再度パワーウインドウス3,0.0,exact,6,0
+Section,section_146,section_160,パワーウインドウスイッチを「自動全開」の位置で押し続け、ドアガラスを全4,パワーウインドウスイッチを「自動全開」の位置で押し続け、ドアガラスを全4,0.0,exact,6,0
+Section,section_147,section_161,運転,運転,0.0,exact,4,0
+Section,section_153,section_167,（スマートエントリー＆スタートシステム非装着車）,（スマートエントリー＆スタートシステム非装着車）,0.0,exact,4,0
+Section,section_158,section_172,（スマートエントリー＆スタートシステム装着車）,（スマートエントリー＆スタートシステム装着車）,0.0,exact,4,0
+Section,section_170,section_184,トランスミッション,トランスミッション,0.0,exact,1,1
+Section,section_172,section_186,シフトポジションの使用目的,シフトポジションの使用目的,0.0,exact,2,0
+Section,section_173,section_187,目的および状態,目的および状態,0.0,exact,2,1
+Section,section_174,section_188,方向指示レバー,方向指示レバー,0.0,exact,1,0
+Section,section_196,section_210,2 マルチインフォメーションディスプレイ装着車,2 マルチインフォメーションディスプレイ装着車,0.0,exact,2,1
+Section,section_207,section_228,先行車発進告知機能,先行車発進告知機能,0.0,exact,1,1
+Section,section_224,section_253,室内装備・機能,室内装備・機能,0.0,exact,4,0
+Section,section_229,section_259,2 温湿度環境風量・風向きによってはナノイーの効果が十分に得られな,2 温湿度環境風量・風向きによってはナノイーの効果が十分に得られな,0.0,exact,2,0
+Section,section_239,section_270,4 kg 以上のものをフックに吊り下げないでください,4 kg 以上のものをフックに吊り下げないでください,0.0,exact,2,1
+Section,section_254,section_288,16 6J,16 6J,0.0,exact,2,0
+Section,section_255,section_292,16 4T,16 4T,0.0,exact,2,1
+Section,section_256,section_293,420 (4.2),420 (4.2),0.0,exact,2,1
+Section,section_268,section_305,カバーを取り付ける6,カバーを取り付ける6,0.0,exact,6,0
+Section,section_271,section_308,取り付けるときは、取りはずしたときと逆の手順で取り付ける3,取り付けるときは、取りはずしたときと逆の手順で取り付ける3,0.0,exact,6,0
+Section,section_272,section_309,車幅灯,車幅灯,0.0,exact,6,0
+Section,section_275,section_312,取り付けるときは、取りはずしたときと逆の手順で取り付ける3,取り付けるときは、取りはずしたときと逆の手順で取り付ける3,0.0,exact,6,0
+Section,section_281,section_318,2 本を取り付ける,2 本を取り付ける,0.0,exact,2,0
+Section,section_286,section_323,新しい電球を取り付ける3,新しい電球を取り付ける3,0.0,exact,6,0
+Section,section_287,section_324,レンズを取り付ける4,レンズを取り付ける4,0.0,exact,6,0
+Section,section_288,section_325,万一の場合には,万一の場合には,0.0,exact,4,0
+Section,section_292,section_329,発炎筒,発炎筒,0.0,exact,1,1
+Section,section_293,section_330,13,13,0.0,exact,6,0
+Section,section_294,section_331,2 秒以上押すまたは,2 秒以上押すまたは,0.0,exact,2,1
+Section,section_296,section_378,14,14,0.0,exact,6,0
+Section,section_300,section_339,5 m 以内,5 m 以内,0.0,exact,2,0
+Section,section_308,section_347,3 パーキングブレーキ走行時警告ブザー,3 パーキングブレーキ走行時警告ブザー,0.0,exact,2,0
+Section,section_310,section_349,5 半ドア走行時警告ブザー,5 半ドア走行時警告ブザー,0.0,exact,2,0
+Section,section_315,section_355,3 回点滅,3 回点滅,0.0,exact,2,0
+Section,section_318,section_358,1 回,1 回,0.0,exact,2,0
+Section,section_319,section_359,3 回,3 回,0.0,exact,2,0
+Section,section_320,section_360,5 秒,5 秒,0.0,exact,2,0
+Section,section_322,section_362,5 秒,5 秒,0.0,exact,2,0
+Section,section_323,section_366,1 回,1 回,0.0,exact,2,0
+Section,section_324,section_364,5 秒,5 秒,0.0,exact,2,0
+Section,section_332,section_372,611,611,0.0,exact,6,0
+Section,section_334,section_374,13,13,0.0,exact,6,0
+Section,section_343,section_383,19,19,0.0,exact,6,0
+Section,section_345,section_385,621,621,0.0,exact,6,0
+Section,section_353,section_392,40 分以上連続で作動させないでください,40 分以上連続で作動させないでください,0.0,exact,2,0
+Section,section_354,section_393,パンクしたときは（応急用タイヤ装着車）,パンクしたときは（応急用タイヤ装着車）,0.0,exact,1,1
+Section,section_355,section_399,ジャッキはタイヤ交換・タイヤチェーン取り付け・取りはずし以外の目的で使,ジャッキはタイヤ交換・タイヤチェーン取り付け・取りはずし以外の目的で使,0.0,exact,2,0
+Section,section_358,section_402,後輪を応急用タイヤと交換する1,後輪を応急用タイヤと交換する1,0.0,exact,6,0
+Section,section_364,section_409,シフトレバーがP の位置にあることを確認する2,シフトレバーがP の位置にあることを確認する2,0.0,exact,6,0
+Section,section_367,section_412,電子キーが正常に働かないときは（スマートエン,電子キーが正常に働かないときは（スマートエン,0.0,exact,1,1
+Section,section_371,section_416,ブレーキペダルをしっかりと踏み込んで、マルチインフォメーション3,ブレーキペダルをしっかりと踏み込んで、マルチインフォメーション3,0.0,exact,6,0
+Section,section_374,section_419,補機バッテリーがあがったときは,補機バッテリーがあがったときは,0.0,exact,1,2
+Section,section_381,section_427,メンテナンスデータ( 指定燃料、オイル量など),メンテナンスデータ( 指定燃料、オイル量など),0.0,exact,1,1
+Section,section_382,section_428,1 エンジンオイルの容量は交換する際の目安ですオイル量の確認はエンジ,1 エンジンオイルの容量は交換する際の目安ですオイル量の確認はエンジ,0.0,exact,2,0
+Section,section_383,section_429,2 0W-16 は上記表の指定銘柄の中では最も省燃費性に優れるオイルです,2 0W-16 は上記表の指定銘柄の中では最も省燃費性に優れるオイルです,0.0,exact,2,0
+Section,section_401,section_452,1 LED はLight Emitting Diodes発光ダイオードの略で半導体発光,1 LED はLight Emitting Diodes発光ダイオードの略で半導体発光,0.0,exact,2,0
+Section,section_412,section_460,1 スマートエントリースタートシステム非装着車,1 スマートエントリースタートシステム非装着車,0.0,exact,2,0
+Section,section_435,section_489,装着車）が表示されたとき,装着車）が表示されたとき,0.0,exact,6,0
+Section,section_437,section_491,立ち往生した,立ち往生した,0.0,exact,6,0
+Section,section_438,section_492,車から音が鳴ったときは（音さくいん）,車から音が鳴ったときは（音さくいん）,0.0,exact,1,1
+Section,section_451,section_504,五十音順さくいん,五十音順さくいん,0.0,exact,1,5
+Section,section_62,section_78,1 作動確認のためにパワースイッチをONスマートエントリースタート,1 作動確認のためにパワースイッチをONスマートエントリースタート,0.0,exact,2,0
+Section,section_63,section_79,2 システムがＯＦＦのときに点灯します,2 システムがＯＦＦのときに点灯します,0.0,exact,2,0
+Section,section_213,section_240,運転を補助する装置,運転を補助する装置,0.0,exact,1,2
+Section,section_217,section_244,4 輪とも指定されたサイズで同じメーカー・ブランド・トレッドパターン溝,4 輪とも指定されたサイズで同じメーカー・ブランド・トレッドパターン溝,0.0,exact,2,1
+Section,section_329,section_369,2 本以上のタイヤがパンクしているとき,2 本以上のタイヤがパンクしているとき,0.0,exact,2,0
+Section,section_390,section_436,1 ハイブリッドシステムが作動している状態で294 N (30 kgf) の踏力をか,1 ハイブリッドシステムが作動している状態で294 N (30 kgf) の踏力をか,0.0,exact,2,0
+Section,section_410,section_458,ユーザーカスタマイズ機能一覧,ユーザーカスタマイズ機能一覧,0.0,exact,1,0
+Section,section_424,section_476,ハイブリッドシステムが始動できない,ハイブリッドシステムが始動できない,0.0,exact,6,0
+Section,section_436,section_490,タイヤがパンクした,タイヤがパンクした,0.0,exact,6,0
+Section,section_202,section_424,1 マルチインフォメーションディスプ,1 マルチインフォメーションディスプレ,0.0,exact,2,0
+Section,section_197,section_211,PCS（プリクラッシュセーフティシステム）,PCS（プリクラッシュセーフティ）,0.0,exact,1,0
+Section,section_29,section_24,チャイルドシートの取り付け,チャイルドシートの取り付け方などをまとめたP. 48 を参照してください,0.0,exact,1,1
+Section,section_406,section_485,3 スマートエントリー スタートシステム装着車,（スマートエントリー& スタートシステム装着車）,0.0,exact,2,0
+Section,section_116,section_182,P. 109,"P. 109, 111",0.0,exact,2,1
+Section,section_191,section_205,事故被害や運転負荷の軽減に寄与することを目的としています本システムの,故被害や運転負荷の軽減に寄与することを目的としています本システムの認,0.0,exact,2,0
+Section,section_22,section_27,チャイルドシートの取り付け方などをまとめたチャイルドシートの取り付,チャイルドシート,0.0,exact,2,1
+Section,section_89,section_91,ECOP. 96,P. 96,0.0,exact,2,0
+Section,section_42,section_435,P. 333,3.3,0.0,exact,2,0
+Section,section_43,section_430,P. 334,3.4,0.0,exact,2,0
+Section,section_44,section_431,P. 337,3.7,0.0,exact,2,0
+Section,section_54,section_441,P. 232,2.3,0.0,exact,2,0
+Section,section_60,section_194,P. 215,1.5,0.0,exact,2,0
+Section,section_66,section_290,P. 202,2.0,0.0,exact,2,0
+Section,section_176,section_440,P. 148,4.8,0.0,exact,2,0
+Section,section_180,section_185,1.5,P. 158,0.0,exact,2,1
+Section,section_187,section_448,P. 202,2.0,0.0,exact,2,0
+Section,section_189,section_289,P. 221,2.2,0.0,exact,2,0
+Section,section_190,section_447,P. 225,2.2,0.0,exact,2,0
+Section,section_387,section_480,1.6,P. 169,0.0,exact,2,0
+Section,section_394,section_418,4.8,P. 480,0.0,exact,2,0
+Section,section_228,section_257,ファンをとめたいときは、 を押す3,を押す3,0.0,exact,6,0
+Section,section_344,section_384,620,20,0.0,exact,6,0
+Section,section_346,section_386,22,622,0.0,exact,6,0
+Section,section_143,section_155,パワースイッチを“ON”（スマートエントリー＆スタートシステム非装着1,スマートエントリー＆スタートシステム非装着車：1,0.0,exact,6,0
+Section,section_27,section_148,2 ヘッドレストとチャイルドシートが干渉してチャイルドシートが正しく取り,ヘッドレスト,0.0,exact,2,1
+Section,section_59,section_433,"P. 160, 164",1.6,0.0,exact,2,0
+Section,section_71,section_195,"P. 217, 225",2.5,0.0,exact,2,1
+Section,section_181,section_87,2.5,"P. 225, 233",0.0,exact,2,0
+Section,section_384,section_377,3.4,"P. 434, 477",0.0,exact,2,0
+Section,section_15,section_231,P. 128,‐1,0.0,exact,2,1
+Section,section_165,section_179,2 秒以上押し続けるか素早く３回以上連続で押してくださいP. 324,2 秒以上押し続けるか素早く３回以上連続で押してくださいP. 388,0.0,exact,2,1
+Section,section_45,section_356,P. 178,1 EV ドライブモードの作動条件についてはP. 178 を参照してください,0.0,exact,2,0
+Section,section_129,section_138,P. 122から約22 cm 以内に近付かないようにしてください電波に,P. 122,0.0,exact,2,0
+Section,section_377,section_422,P. 340がマルチインフォメーションディスプレイに表,P. 405がマルチインフォメーションディスプレイに表,0.0,exact,2,0
+Section,section_16,section_237,P. 26,※ ★,0.0,exact,2,0
+Section,section_131,section_25,リヤシート,●運転装置にふれるのを防ぐため、お子さまはリヤシートに乗せること,0.0,exact,1,1
+Section,section_24,section_486,P. 49,P. 490をご確認ください,0.0,exact,2,0
+Section,section_431,section_474,（スマートエントリー& スタートシステム装着車）,●キー（スマートエントリー＆スタートシステム非装着車）または電子,0.0,exact,6,1
+Section,section_90,section_104,方●,2. 計器の見方,0.0,exact,6,1
+Section,section_385,section_505,3.7,3.7 以下を使用することができます,0.0,exact,2,0
+Section,section_368,section_200,トリー＆スタートシステム装着車）,●スマートエントリー＆スタートシステム非装着車,0.0,exact,1,1
+Section,section_338,section_463,15,15 秒,0.0,exact,6,0
+Section,section_333,section_457,12,120 秒,0.0,exact,6,0
+Section,section_339,section_446,16,16 6J,0.0,exact,6,1
+Section,section_251,section_285,270 (2.7),2702.7,0.0,exact,2,0
+Section,section_252,section_286,240 (2.4),2402.4,0.0,exact,2,0
+Section,section_253,section_287,230 (2.3),2302.3,0.0,exact,2,0
+Section,section_396,section_443,270 (2.7),2702.7,0.0,exact,2,0
+Section,section_416,section_53,30 秒,30 秒以上経過すると自動的に設定,0.0,exact,2,1
+Section,section_52,section_381,P. 177,17,0.0,exact,2,0
+Section,section_93,section_371,P. 103,10,0.0,exact,2,0
+Section,section_120,section_373,P. 124,12,0.0,exact,2,0
+Section,section_162,section_389,P. 125,25,0.0,exact,2,0
+Section,section_171,section_379,P. 150,15,0.0,exact,2,0
+Section,section_215,section_333,P. 214,14,0.0,exact,2,0
+Section,section_304,section_387,P. 232,23,0.0,exact,2,0
+Section,section_331,section_269,10,P. 105,0.0,exact,6,1
+Section,section_342,section_164,18,P. 181,0.0,exact,6,3
+Section,section_347,section_496,20,P. 420,0.0,exact,6,0
+Section,section_34,section_60,P. 392,P. 398,0.0,exact,2,0
+Section,section_47,section_132,P. 336,P. 364,0.0,exact,2,1
+Section,section_48,section_266,P. 335,P. 323,0.0,exact,2,0
+Section,section_49,section_298,P. 337,P. 370,0.0,exact,2,0
+Section,section_50,section_61,P. 339,P. 399,0.0,exact,2,0
+Section,section_53,section_70,P. 179,P. 187,0.0,exact,2,0
+Section,section_55,section_106,P. 170,P. 109,0.0,exact,2,1
+Section,section_57,section_214,P. 174,P. 217,0.0,exact,2,1
+Section,section_58,section_15,P. 183,P. 135,0.0,exact,2,1
+Section,section_70,section_264,P. 267,P. 126,0.0,exact,2,1
+Section,section_123,section_71,P. 112,P. 181,0.0,exact,2,0
+Section,section_127,section_86,P. 352,P. 329,0.0,exact,2,0
+Section,section_128,section_400,P. 387,P. 358,0.0,exact,2,0
+Section,section_150,section_136,P. 173,P. 131,0.0,exact,2,1
+Section,section_156,section_82,P. 324,P. 248,0.0,exact,2,0
+Section,section_160,section_73,P. 110,P. 191,0.0,exact,2,0
+Section,section_161,section_72,P. 124,P. 182,0.0,exact,2,0
+Section,section_178,section_76,P. 241,P. 211,0.0,exact,2,0
+Section,section_188,section_69,P. 215,P. 291,0.0,exact,2,0
+Section,section_212,section_494,P. 342,P. 421,0.0,exact,2,0
+Section,section_230,section_204,P. 299,P. 229,0.0,exact,2,0
+Section,section_261,section_506,P. 307,P. 350,0.0,exact,2,0
+Section,section_305,section_62,P. 340,P. 401,0.0,exact,2,0
+Section,section_373,section_143,P. 414,P. 419,0.0,exact,2,1
+Section,section_419,section_500,P. 165,P. 162,0.0,exact,2,0
+Section,section_420,section_247,P. 124,P. 182,0.0,exact,2,1
+Section,section_440,section_406,P. 354,P. 351,0.0,exact,2,0
+Section,section_447,section_242,P. 202,P. 222,0.0,exact,2,1
+Section,section_448,section_501,P. 215,P. 211,0.0,exact,2,0
+Section,section_449,section_344,P. 225,P. 222,0.0,exact,2,0
+Section,section_164,section_263,P. 301,P. 319,0.0,exact,2,0
+Section,section_457,section_65,P. 406,P. 400,0.0,exact,2,0
+Section,section_411,section_495,"P. 112, 118, 122","P. 121,",0.0,exact,2,0
+Section,section_220,section_343,"P. 91, 101",P. 291,0.0,exact,2,0
+Section,section_441,section_202,"P. 114,",P. 211,0.0,exact,2,0
+Section,section_456,section_497,P. 411,"P. 401,",0.0,exact,2,0
+Section,section_30,section_190,P. 56,P. 156,0.0,exact,2,1
+Section,section_69,section_68,P. 85,P. 185,0.0,exact,2,0
+Section,section_77,section_170,P. 88,P. 388,0.0,exact,2,1
+Section,section_204,section_467,P. 89,P. 289,0.0,exact,2,0
+Section,section_149,section_174,"P. 160, 164",P. 116,0.0,exact,2,0
+Section,section_168,section_110,"P. 103, 105",P. 100,0.0,exact,2,0
+Section,section_169,section_127,"P. 103, 105",P. 102,0.0,exact,2,0
+Section,section_245,section_169,P. 389,"P. 399, 405",0.0,exact,2,0
+Section,section_246,section_177,P. 389,"P. 399, 405",0.0,exact,2,1
+Section,section_303,section_191,P. 397,"P. 399, 409",0.0,exact,2,0
+Section,section_426,section_74,P. 161,"P. 168, 172",0.0,exact,2,0
+Section,section_350,section_391,ボトルのホース先端に空気逃がしキャッ2,ホース先端に空気逃がしキャップを取り2,0.0,exact,6,0
+Section,section_348,section_390,タイヤからボトルのホースを取りはずす1,タイヤからホースを取りはずす1,0.0,exact,6,0
+Section,section_336,section_451,P. 368411,P. 356,0.0,exact,2,0
+Section,section_205,section_498,P. 99,"P. 399,",0.0,exact,2,0
+Section,section_351,section_444,24,2402.4,0.0,exact,6,0
+Section,section_166,section_327,P. 387,P. 386と停止表示板を置,0.0,exact,2,0
+Section,section_290,section_260,P. 322と停止表示板を置,P. 362,0.0,exact,2,1
+Section,section_432,section_510,P. 422をご確認ください,P. 472,0.0,exact,2,0
+Section,section_72,section_16,P. 87,P. 28,0.0,exact,2,1
+Section,section_75,section_85,P. 90,P. 91,0.0,exact,2,0
+Section,section_132,section_37,P. 27,P. 62,0.0,exact,2,0
+Section,section_154,section_38,P. 67,P. 64,0.0,exact,2,0
+Section,section_159,section_39,P. 67,P. 66,0.0,exact,2,1
+Section,section_208,section_223,P. 89,P. 95,0.0,exact,2,0
+Section,section_209,section_147,P. 99,P. 29,0.0,exact,2,1
+Section,section_112,section_20,P. 96,P. 63,0.0,exact,2,1
+Section,section_352,section_459,25,"P. 119, 125, 129",0.0,exact,6,0
+Section,section_219,section_168,P. 174,P. 71,0.0,exact,2,1
+Section,section_445,section_173,P. 174,P. 71,0.0,exact,2,1
+Section,section_409,section_465,120 秒,30 秒,0.0,exact,2,0
+Section,section_238,section_248,P. 99,"P. 97, 107",0.0,exact,2,1
+Section,section_155,section_88,"P. 334, 340",P. 93,0.0,exact,2,0
+Section,section_414,section_36,15 秒,15 36kg,0.0,exact,2,1
+Section,section_26,section_31,1 助手席にチャイルドシートを取り付ける場合は背もたれを可能な限り起こ,2 背もたれを可能な限り起こしてく,0.0,exact,2,0
+Section,section_233,section_55,P. 259,P. 459,0.0,exact,2,1
+Section,section_236,section_75,P. 263,P. 223,0.0,exact,2,0
+Section,section_325,section_175,P. 301,P. 131,0.0,exact,2,0
+Section,section_321,section_363,9 回,1 回,0.0,partial,2,0
+Section,section_340,section_382,617,618,0.0,partial,6,1
+Section,section_349,section_388,623,624,0.0,partial,6,0
+Section,section_163,section_178,"P. 334, 340",P. 364,0.0,partial,2,0
+Section,section_177,section_365,"P. 334, 344",P. 364,0.0,partial,2,0
+Section,section_454,section_183,P. 195,"P. 109, 111",0.0,partial,2,1
+Section,section_326,section_438,1 回,1 6,0.0,partial,2,0
+Section,section_198,section_215,軽減に寄与することを目的として設計されていますがその効果はさまざまな,することを目的としていますがその効果はさまざまな条件によりかわりま,0.0,partial,2,1
+Section,section_316,section_224,1 EV ドライブモードの作動条件についてはP. 170 を参照してください,P. 105,0.0,partial,2,0
+Section,section_392,section_450,1 6,16 4T,0.0,partial,2,0
+Section,section_341,section_445,723,2302.3,0.0,partial,6,0
+Section,section_216,section_398,P. 338,●非常点滅灯を点滅させる（→P. 385）,0.0,partial,2,0
+Section,section_312,section_144,P. 397,P. 453,0.0,partial,2,1
+Section,section_356,section_63,P. 295,P. 402,0.0,partial,2,0
+Section,section_362,section_66,P. 288,P. 402,0.0,partial,2,0
+Section,section_442,section_342,P. 353,P. 463,0.0,partial,2,0
+Section,section_446,section_49,P. 154,P. 458,0.0,partial,2,1
+Section,section_453,section_499,P. 287,P. 182,0.0,partial,2,0
+Section,section_444,section_493,"P. 334,","P. 400,",0.0,partial,2,0
+Section,section_455,section_471,P. 192,P. 131,0.0,partial,2,0
+Section,section_439,section_243,"P. 336,",P. 403,0.0,partial,2,1
+Section,section_443,section_352,"P. 337,",P. 463,0.0,partial,2,0
+Section,section_398,section_203,230 (2.3),P. 223,0.0,partial,2,0
+Section,section_28,section_361,9 18kg,9 回,0.0,partial,2,0
+Section,section_78,section_397,●オドメーター表示時：ハイブリッドシステムを始動してからの平,●ハイブリッドシステムを停止する,0.0,partial,6,0
+Section,section_113,section_461,2. 計器の見方,2 回,0.0,partial,2,0
+Section,section_141,section_411,パワースイッチをOFF にする1,パワースイッチを約15 秒以上押し続ける4,0.0,partial,6,0
+Section,section_140,section_157,パワースイッチを“LOCK” にする1,パワースイッチを“ON”（スマートエントリー＆スタートシステム非装着1,0.0,partial,6,0
+Section,section_366,section_464,パワースイッチを約15 秒以上押し続ける4,7.5 秒,0.0,partial,6,0
+Section,section_337,section_380,14,16,0.0,partial,6,0
+Section,section_399,section_291,16 6J,17 6 12J,0.0,partial,2,0
+Section,section_389,section_180,3.3,P. 453,0.0,partial,2,1
+Section,section_404,section_212,1 ハロゲン ヘッドランプ装着車,●車両,0.0,partial,2,1
+Section,section_243,section_462,か2,2 2,0.0,partial,6,0
+Section,section_413,section_29,2 回,2 表示されているマークは商品により異なります,0.0,partial,2,1
+Section,section_400,section_449,16 4T,17 6 12J,0.0,partial,2,0
+Section,section_415,section_375,7.5 秒,1 分程度低温の場合は5 分,0.0,partial,2,0
+Section,section_397,section_103,240 (2.4),ECOP. 102,0.0,partial,2,0
+Section,section_405,section_34,2 LED ヘッドランプ装着車,2 ヘッドレスト非調整式,0.0,partial,2,1
+Section,section_79,section_413,●トリップメーター表示時：トリップメーターA・B それぞれの平,トリー＆スタートシステム装着車）,0.0,partial,6,0
+Section,section_452,section_238,3.7 以下を使用することができます,● を選択するごとに、自動表示モードのON とOFF が切り替わ,0.0,partial,2,0
+Section,,section_26,,●小さなお子さまには、パワーウインドウ・ボンネット・バックドアや,0.0,added,,0
+Section,,section_28,,1 ＵＮECE R44ＵＮECE R129 はチャイルドシートに関する,0.0,added,,0
+Section,,section_30,,1 シートをいちばんうしろに下げた状態で取り付けてくださいシートの高,0.0,added,,0
+Section,,section_32,,3 ヘッドレストとチャイルドシートが干渉してチャイルドシートが正しく取,0.0,added,,0
+Section,,section_40,,やむを得ず助手席にチャイルドシートを取り付ける場合は、助手席1,0.0,added,,0
+Section,,section_41,,ヘッドレストとチャイルドシートが干渉してチャイルドシートが正3,0.0,added,,0
+Section,,section_42,,チャイルドシートにシートベ4,0.0,added,,0
+Section,,section_43,,取り付け後はチャイルドシートを前後左右にゆすり、しっかりと固6,0.0,added,,0
+Section,,section_44,,チャイルドシートをシートに2,0.0,added,,0
+Section,,section_45,,取り付けたチャイルドシートを前後左右にゆすり、固定されている3,0.0,added,,0
+Section,,section_46,,ヘッドレストを上げる1,0.0,added,,0
+Section,,section_47,,フタを開けてトップテザーア2,0.0,added,,0
+Section,,section_54,,オートアラーム,0.0,added,,0
+Section,,section_115,,●告知設定,0.0,added,,0
+Section,,section_116,,●告知タイミング,0.0,added,,0
+Section,,section_134,,ロックレバーを施錠側にする1,0.0,added,,0
+Section,,section_163,,"P. 168, 172",0.0,added,,0
+Section,,section_213,,●歩行者,0.0,added,,0
+Section,,section_216,,1 マルチインフォメーションディ,0.0,added,,0
+Section,,section_217,,作動対象の色合いや明るさが背景に溶け込んでいるとき,0.0,added,,0
+Section,,section_218,,どなど作動対象が背景に溶け込んでいるとき,0.0,added,,0
+Section,,section_229,,1 マルチインフォメーションディスプレイ非装着車,0.0,added,,0
+Section,,section_234,,クリアランスソナー,0.0,added,,0
+Section,,section_235,,パーキングサポートブレーキ（静止物）,0.0,added,,0
+Section,,section_236,,パノラミックビューモニター,0.0,added,,0
+Section,,section_239,,●車幅平行線が実際の障害物などに重ならないようにハンドルを操作,0.0,added,,0
+Section,,section_241,,1 マルチインフォメーションディスプレイ非装着車,0.0,added,,0
+Section,,section_245,,LED イルミネーションビーム,0.0,added,,0
+Section,,section_249,,17 インチタイヤ装着車を除く,0.0,added,,0
+Section,,section_258,,ファンをとめたいときは、 を押す4,0.0,added,,0
+Section,,section_267,,ラゲージルーム内装備,0.0,added,,0
+Section,,section_274,,●掃除機などでほこりを取り除き、水またはぬるま湯を含ませた布でふ,0.0,added,,0
+Section,,section_275,,●汚れが落ちない場合は、中性洗剤を水で約1％に薄めてやわらかい布,0.0,added,,0
+Section,,section_277,,P. 455,0.0,added,,0
+Section,,section_278,,P. 455,0.0,added,,0
+Section,,section_282,,●タイヤの亀裂・損傷の有無,0.0,added,,0
+Section,,section_283,,●タイヤの溝の深さ,0.0,added,,0
+Section,,section_334,,水没したときは,0.0,added,,0
+Section,,section_336,,●ハイブリッドシステム異常警告灯が点灯（マルチインフォメーション,0.0,added,,0
+Section,,section_351,,P. 405,0.0,added,,0
+Section,,section_394,,●地面が固く平らで安全な場所に移動する,0.0,added,,0
+Section,,section_395,,●パーキングブレーキをかける,0.0,added,,0
+Section,,section_396,,●シフトレバーをP に入れる,0.0,added,,0
+Section,,section_407,,●イモビライザーシステムに異常がある可能性があります。（→P. 78）,0.0,added,,0
+Section,,section_423,,●高水温警告灯が点滅または点灯：エンジンがオーバーヒートしている,0.0,added,,0
+Section,,section_466,,初期設定が必要な項目,0.0,added,,0
+Section,,section_478,,●キーが車内の検知される場所にありますか？（→P. 129）,0.0,added,,0
+Section,,section_479,,●補機バッテリーがあがっていませんか？（→P. 455）,0.0,added,,0
+Section,,section_502,,P. 223,0.0,added,,0
+Section,,section_507,,P. 203,0.0,added,,0
+Section,,section_508,,P. 200,0.0,added,,0
+Section,,section_509,,P. 477,0.0,added,,0
+Section,,section_511,,P. 473,0.0,added,,0
+Paragraph,doc_a_section_1_chunk_1,doc_b_section_1_chunk_1,2 知っておいていただきたいこと 安全に お使いいただくために 運転する前に 22 安全なドライブのために 26 SRS エアバッグ 34 お子さまの安全のために 45 チャイルドシートの 取り付け ...,2 知っておいていただきたいこと 安全に お使いいただくために 運転する前に 24 安全なドライブのために 28 SRS エアバッグ 36 排気ガスに対する注意 お子さまの安全 お子さまを乗せるときは...,61.31,partial,,1
+Paragraph,doc_a_section_2_chunk_1,doc_b_section_2_chunk_1,エアコンの使い方 オートエアコン...246 シートヒーター...256 5-2 室内灯のつけ方 室内灯一覧...258 インテリアランプ...259 パーソナルランプ...259 5-3 収納装備の...,エアコンの使い方 オートエアコン...306 シートヒーター...316 5-2 室内灯のつけ方 室内灯一覧...318 インテリアランプ...319 パーソナルランプ...319 5-3 収納装備の...,54.34,partial,,1
+Paragraph,,doc_b_section_4_chunk_1,,なお次の場合を除きトヨタは取得したデータを第三者へ開示また は提供することはありません お車の使用者の同意リース車は借主の同意がある場合 警察・裁判所・政府機関などの法的強制力のある要請に基づく場合 ...,0.0,insert,,1
+Paragraph,doc_a_section_10_chunk_1,doc_b_section_10_chunk_1,"イラスト目次 外観 ドア 112, 115 ドアガラスの開閉 142 メカニカルキーでの施錠解錠 386 警告灯1・警告メッセージ2 333, 340 バックドア 118 車外から開ける 118 警告...","イラスト目次 外観 GR SPORT を除く GR SPORT 13 イラスト目次 ドア 119, 122 ドアガラスの開閉 150 メカニカルキーでの施錠解錠 452 警告灯1・警告メッセージ2 3...",58.54,partial,,1
+Paragraph,doc_a_section_33_chunk_1,doc_b_section_48_chunk_1,ハイブリッドシステムは電気モーターとガソリンエンジンという2 つ のパワーのシナジー相乗効果により優れた動力性能と低燃費化の 両立を高い次元で実現したシステムですさらに排出ガスを低減ク リーン化した環...,ハイブリッドシステムは電気モーターとガソリンエンジンという2 つ のパワーのシナジー相乗効果により優れた動力性能と低燃費化の 両立を高い次元で実現したシステムですさらに排出ガスを低減ク リーン化した環...,29.78,partial,,1
+Paragraph,,doc_b_section_51_chunk_1,,意くださいなお高電圧部位などには取り扱い上の注意を記載した ラベルが貼付してありますのでラベルの指示に従って正しい取り扱い をしてください ラベル サービスプラグ エアコンコンプレッサー 電気モーター...,0.0,insert,,1
+Paragraph,doc_a_section_137_chunk_1,doc_b_section_152_chunk_1,X チルトステアリング装着車 ハンドルを持ちレバーを下げる ハンドルを上下に動かし適切な 位置にする 位置が決定したらレバーを上げてハ ンドルを固定してください ハンドル 調整のしかた 1 2 136...,X チルトステアリング装着車 ハンドルを持ちレバーを下げる ハンドルを上下に動かし適切な 位置にする 位置が決定したらレバーを上げてハ ンドルを固定してください ハンドル 調整のしかた 1 2 143...,92.73,match,,1
+Paragraph,doc_a_section_151_chunk_1,doc_b_section_165_chunk_1,安全で快適なドライブをするために荷物を積むときは次のことをお守 りください 警告 積んではいけないもの 次のようなものを積むと引火するおそれがあり危険です 燃料が入った容器 スプレー缶 荷物を積むとき...,安全で快適なドライブをするために荷物を積むときは次のことをお守 りください 警告 積んではいけないもの 次のようなものを積むと引火するおそれがあり危険です 燃料が入った容器 スプレー缶 荷物を積むとき...,39.79,partial,,1
+Paragraph,doc_a_section_151_chunk_2,,運転のしかた シフトレバーがP 以外でハイブリッドシステムを停止させた場合ハイ ブリッドシステムは停止しますがパワースイッチのモードはOFF にな りません次の手順でOFF にしてください パーキング...,,0.0,delete,,1
+Paragraph,doc_a_section_182_chunk_1,doc_b_section_196_chunk_1,雨や霧などの悪天候下での視界を確保します グレードオプションなどにより装備の有無があります 1 2 184 4-3 ランプのつけ方・ ワイパーの使い方 X リアフォグランプ装着車 消灯する 点灯する ...,雨や霧などの悪天候下での視界を確保します グレードオプションなどにより装備の有無があります 1 2 192 4-3 ランプのつけ方・ ワイパーの使い方 X リアフォグランプ装着車 消灯する 点灯する ...,94.41,match,,1
+Paragraph,doc_a_section_183_chunk_1,doc_b_section_197_chunk_1,操作のしかた 1 2 3 4 5 187 4-3 ランプのつけ方・ ワイパーの使い方 4 運 転 X 間欠時間調節式ワイパー INT を選択しているとき間欠作動の時間を調整することができま す 次のよ...,操作のしかた 1 2 3 4 5 195 4-3 ランプのつけ方・ ワイパーの使い方 4 運 転 X 間欠時間調節式ワイパー INT を選択しているとき間欠作動の時間を調整することができま す 次のよ...,86.47,match,,1
+Paragraph,doc_a_section_184_chunk_1,doc_b_section_198_chunk_1,操作のしかた グレードオプションなどにより装備の有無があります 1 2 3 4 知識 191 4-3 ランプのつけ方・ ワイパーの使い方 4 運 転 注意 窓ガラスが乾いているときは ワイパーを使わな...,操作のしかた グレードオプションなどにより装備の有無があります 1 2 3 4 知識 199 4-3 ランプのつけ方・ ワイパーの使い方 4 運 転 注意 窓ガラスが乾いているときは ワイパーを使わな...,95.04,match,,1
+Paragraph,,doc_b_section_206_chunk_1,,なお次の場合を除きトヨタは取得したデータを第三者へ開示また は提供することはありません お車の使用者の同意リース車は借主の同意がある場合 警察・裁判所・政府機関などの法的強制力のある要請に基づく場合 ...,0.0,insert,,1
+Paragraph,doc_a_section_195_chunk_1,,グレードオプションなどにより装備の有無があります 進路上の車両を前方センサーで検出し衝突の可能性が高いと判断した ときに警報やブレーキ力制御により運転者の衝突回避操作を補助しま すまた衝突の可能性がさ...,,0.0,delete,,1
+Paragraph,doc_a_section_195_chunk_2,,Toyota Safety Sense C 道路脇が構造物に囲まれた狭い道狭いトンネル・鉄橋などを走行するとき 洗車機を使用するとき カーブの入り口の道路脇に車両・構造物 が存在するとき 路上または道...,,0.0,delete,,1
+Paragraph,doc_a_section_195_chunk_3,doc_b_section_221_chunk_1,Toyota Safety Sense C LDA を使用するにはLDA スイッチ を押す メーター内のLDA表示灯が緑色で点灯 します OFF にするには再度LDA スイッチを 押します いったんL...,レイ非装着車 2 マルチインフォメーションディスプ レイ装着車 警告 LDA をお使いになる前に LDA を過信しないでくださいLDA は自動で運転する装置でも前方への注意 を軽減する装置でもないため...,40.51,partial,,1
+Paragraph,doc_a_section_199_chunk_1,,レイ非装着車 2 マルチインフォメーションディスプ レイ装着車 プリクラッシュセーフティシステムの警報タイミングを変更する PCS スイッチを押すとPCS 作動表示灯1 が点灯しメータ1 またはマルチ...,,0.0,delete,,1
+Paragraph,,doc_b_section_222_chunk_1,,2 マルチインフォメーションディスプレイ装着車 知識 227 4-5 Toyota Safety Sense 4 運 転 機能が正常に作動しないおそれのある状況 次のような状況では前方センサーが白黄線...,0.0,insert,,1
+Paragraph,doc_a_section_210_chunk_1,doc_b_section_230_chunk_1,ON-OFF スイッチを押してシ ステムをON にする メーター内のクルーズコントロール表 示灯が点灯します OFF にするには再度スイッチを押し ます 希望の速度まで加速減速しレ バーを下げて設定す...,ONOFF スイッチを押してシ ステムをON にする メーター内のクルーズコントロール表 示灯が点灯します OFF にするには再度スイッチを押し ます 希望の速度まで加速減速しレ バーを下げて設定する...,23.97,partial,,1
+Paragraph,,doc_b_section_232_chunk_1,,グレードオプションなどにより装備の有無があります 1 2 速度を設定する 1 2 237 4-6 運転支援装置について 4 運 転 設定速度をかえるには希望の速度になるまでレバーを操作します 速度を上...,0.0,insert,,1
+Paragraph,,doc_b_section_226_chunk_1,,グレードオプションなどにより装備の有無があります 先行車の発進後自車が停止し続けた場合警告ブザーとメーター1 またはマルチインフォメーションディスプレイ2 の表示でお知らせす る機能です 先行車発進告...,0.0,insert,,1
+Paragraph,,doc_b_section_251_chunk_1,,2 ブレーキペダルを踏まないでP からシフトするときにロックがかかりますシ フトできる場合はシフトロックシステムなどの故障が考えられますただち にトヨタ販売店で点検を受けてください タイヤチェーンにつ...,0.0,insert,,1
+Paragraph,,doc_b_section_252_chunk_1,,フトできる場合はシフトロックシステムなどの故障が考えられますただち にトヨタ販売店で点検を受けてください タイヤチェーンについて X 17 インチタイヤ装着車を除く 取り付け・取りはずし・取り扱い方法...,0.0,insert,,1
+Paragraph,doc_a_section_241_chunk_1,doc_b_section_272_chunk_1,お手入れは次の項目を実施してください 知識 277 6-1 お手入れのしかた 6 お 手 入 れ の し か た アルミホイール 中性洗剤を使用し早めに汚れを落としてください 洗剤を使用したあとは放置...,お手入れは次の項目を実施してください 知識 339 6-1 お手入れのしかた 6 お 手 入 れ の し か た ホイール・ホイールキャップについて 中性洗剤を使用し早めに汚れを落としてください 洗剤...,72.0,partial,,1
+Paragraph,doc_a_section_242_chunk_1,doc_b_section_273_chunk_1,お手入れは次の要領で実施してください 車内の手入れ 本革部分の手入れ 合成皮革部分の手入れ 駆動用電池冷却用吸入口の手入れ 281 6-1 お手入れのしかた 6 お 手 入 れ の し か た X マ...,お手入れは次の要領で実施してください 車内の手入れ 本革部分の手入れ 合成皮革部分の手入れ 駆動用電池冷却用吸入口の手入れ 344 6-1 お手入れのしかた X マルチインフォメーションディスプレイ非...,92.82,match,,1
+Paragraph,doc_a_section_242_chunk_2,doc_b_section_273_chunk_2,お手入れのしかた 注意 清掃するとき使用する溶剤について 変色・しみ・塗装はがれの原因になるため次の溶剤は使用しないでください シート以外の部分ベンジン・ガソリンなどの有機溶剤や酸性またはアル カリ性...,お手入れのしかた 6 お 手 入 れ の し か た 注意 清掃するとき使用する溶剤について 変色・しみ・塗装はがれの原因になるため次の溶剤は使用しないでください シート以外の部分ベンジン・ガソリンな...,86.32,match,,1
+Paragraph,doc_a_section_259_chunk_1,,電池が消耗しているときは新しい電池に交換してください 用意するもの 電池交換のしかたスマートエントリースタートシステム非装着車 1 2 3 302 6-2 簡単な点検・部品交換 取り付けるときは取りは...,,0.0,delete,,1
+Paragraph,,doc_b_section_321_chunk_1,,外側のガイド とクリップを合わ せてからピン を合わせて取り付 けてください 番号灯 レンズを取り外す 小さいマイナスドライバー などを左右どちらかのレン ズの穴に挿し込む 小さいマイナスドライバー ...,0.0,insert,,1
+Paragraph,doc_a_section_3_chunk_1,,本書の内容について 不正改造について 7 故障診断コネクターなどに点検整 備用の故障診断装置以外の電装品 を取り付けないでください 電子機器に悪影響をおよぼしたり バッテリーがあがったりするなど 思わ...,,0.0,delete,,1
+Paragraph,,doc_b_section_6_chunk_1,,とがあります イベントデータレコーダー 9 お車へRF 送信機を取り付けると次のようなシステムに影響をおよぼ す可能性があります ハイブリッドシステム EFI コンピュータ Toyota Safety...,0.0,insert,,1
+Paragraph,doc_a_section_17_chunk_1,doc_b_section_17_chunk_1,走行前にすべての乗員は必ずシートベルトを正しく着用してください 正しく着用するには 着け方はずし方 解除ボタン 1 2 27 1-1 安全にお使いいただくために 安 全 ・ 安 心 の た め に 1...,走行前にすべての乗員は必ずシートベルトを正しく着用してください 正しく着用するには 着け方はずし方 解除ボタン 1 2 29 1-1 安全にお使いいただくために 安 全 ・ 安 心 の た め に 1...,71.59,partial,,1
+Paragraph,doc_a_section_35_chunk_1,doc_b_section_50_chunk_1,ハイブリッドシステムには駆動用電池・パワーコントロールユニット・ オレンジ色の高圧ケーブル・電気モーターなどの高電圧部位最高約 520 Vや冷却用ラジエーターなどの高温部位がありますのでご注 意くださ...,ハイブリッドシステムには駆動用電池・パワーコントロールユニット・ オレンジ色の高圧ケーブル・電気モーターなどの高電圧部位最高約 520 Vや冷却用ラジエーターなどの高温部位がありますのでご注 意くださ...,13.91,replace,,1
+Paragraph,doc_a_section_37_chunk_1,doc_b_section_52_chunk_1,キーに信号発信機が内蔵してありあらかじめ登録されたキー以外では ハイブリッドシステムを始動できません 車両から離れる場合は車内にキーを残さないでください このシステムは車両盗難の防止に寄与する機能であ...,キーに信号発信機が内蔵してありあらかじめ登録されたキー以外では ハイブリッドシステムを始動できません 車両から離れる場合は車内にキーを残さないでください このシステムは車両盗難の防止に寄与する機能であ...,58.51,partial,,1
+Paragraph,doc_a_section_40_chunk_1,doc_b_section_58_chunk_1,X マルチインフォメーションディスプレイ非装着車 X マルチインフォメーションディスプレイ装着車 警告灯表示灯 メーター内の警告灯表示灯でお車の状況をお知らせします 次のイラストは説明のためすべての表...,X マルチインフォメーションディスプレイ非装着車 X マルチインフォメーションディスプレイ装着車 警告灯表示灯 メーター内の警告灯表示灯でお車の状況をお知らせします 次のイラストは説明のためすべての表...,100.0,match,,1
+Paragraph,,doc_b_section_125_chunk_1,,2 メ ー タ ー の 見 方 駆動用電池の残量に応じて表示が 8 段階に変化します 残量が少ない 残量が多い P 102 駆動用電池の残量表示について 駆動用電池の充電量はハイブリッドシステムによっ...,0.0,insert,,1
+Paragraph,,doc_b_section_128_chunk_1,,各部の操作 3 113 3-1 キー キー...114 3-2 ドアの開閉 ロックのしかた ドアフロントドア リヤドア...119 バックドア...125 スマートエントリー スタートシステム...1...,0.0,insert,,1
+Paragraph,doc_a_section_118_chunk_1,doc_b_section_133_chunk_1,車外からの解錠施錠 グレードオプションなどにより装備の有無があります 1 2 X スマートエントリースター トシステム非装着車 X スマートエントリースタート システム装着車 全ドアを施錠する 必ず施...,車外からの解錠施錠 グレードオプションなどにより装備の有無があります 1 2 X スマートエントリースター トシステム非装着車 X スマートエントリースタート システム装着車 全ドアを施錠する 必ず施...,75.94,match,,1
+Paragraph,doc_a_section_121_chunk_1,doc_b_section_137_chunk_1,押して解錠する 施錠操作後約３秒間は解錠できませ ん ロックスイッチを押して施錠す る 必ず施錠されたことを確認してくださ い ワイヤレスリモコン P 112 バックドアオープンスイッチを押 したまま...,押して解錠する 施錠操作後約３秒間は解錠できませ ん ロックスイッチを押して施錠す る 必ず施錠されたことを確認してくださ い ワイヤレスリモコン P 119 バックドアオープンスイッチを押 したまま...,22.28,partial,,1
+Paragraph,,doc_b_section_131_chunk_1,,キーワイヤレス機能非装着 キーナンバープレート X スマートエントリースタートシステム装着車 電子キー スマートエントリースタートシ ステムの作動P 129 ワイヤレス機能の作動 P 115 メカニカ...,0.0,insert,,1
+Paragraph,,doc_b_section_141_chunk_1,,警告音のみが鳴る場合の状況と対処方法は次のようになります 節電機能 長期駐車時に電子キーの電池と車両の補機バッテリーあがりを防止するため節 電機能が働きます 次の状況ではスマートエントリースタートシス...,0.0,insert,,1
+Paragraph,doc_a_section_130_chunk_1,doc_b_section_145_chunk_1,調整のしかた 1 2 3 グレードオプションなどにより装備の有無があります 警告 シートを調整するとき 同乗者がシートにあたってけがをしないように注意してください シートの下や動いている部分に手を近付...,調整のしかた 1 2 3 グレードオプションなどにより装備の有無があります 警告 シートを調整するとき 同乗者がシートにあたってけがをしないように注意してください シートの下や動いている部分に手を近付...,100.0,match,,1
+Paragraph,doc_a_section_138_chunk_1,doc_b_section_153_chunk_1,インナーミラー本体を持って上下方向に調整する レバーを操作することで後続車のヘッドランプによる反射光を減少さ せます 通常使用時 防眩時 インナーミラー 後方を十分に確認できるようにミラーの位置を調整...,インナーミラー本体を持って上下方向に調整する レバーを操作することで後続車のヘッドランプによる反射光を減少さ せます 通常使用時 防眩時 インナーミラー 後方を十分に確認できるようにミラーの位置を調整...,100.0,match,,1
+Paragraph,doc_a_section_139_chunk_1,doc_b_section_154_chunk_1,格納する もう一度押すともとの位置にもど ります ドアミラー 調整のしかた 1 1 2 2 1 2 3 4 ドアミラーを格納するときは 140 3-4 ハンドル位置・ミラー オート作動での格納復帰のし...,格納する もう一度押すともとの位置にもど ります ドアミラー 調整のしかた 1 1 2 2 1 2 3 4 ドアミラーを格納するときは 147 3-4 ハンドル位置・ミラー 3 各 部 の 操 作 オ...,76.83,match,,1
+Paragraph,doc_a_section_148_chunk_1,doc_b_section_162_chunk_1,"160, 164 ブレーキペダルを踏んだままシフトレバーをD にする P 173 パーキングブレーキを解除するP 178 ブレーキペダルから徐々に足を離しアクセルペダルをゆっくり踏み 発進する シフト...","168, 172 ブレーキペダルを踏んだままシフトレバーをD にする P 181 パーキングブレーキを解除するP 186 ブレーキペダルから徐々に足を離しアクセルペダルをゆっくり踏み 発進する シフト...",23.23,partial,,1
+Paragraph,doc_a_section_148_chunk_2,,運転にあたって 4 運 転 警告 次の警告をお守りくださいお守りいただかないと重大な傷害におよぶか最悪 の場合死亡につながるおそれがあります シフトレバーを操作するときは シフトレバーを前進側のシフト...,,0.0,delete,,1
+Paragraph,doc_a_section_148_chunk_3,,"373, 357 をご覧ください 冠水路走行に関する注意 大雨などで冠水した道路では次のような重大な損傷を受けるおそれがあるた め走行しないでください エンストする 電装品がショートする 水を吸い込ん...",,0.0,delete,,1
+Paragraph,doc_a_section_167_chunk_1,doc_b_section_181_chunk_1,切りかえる EV ドライブモードになるとEV ドラ イブモード表示灯が点灯します もう一度スイッチを押すと通常走行 ガソリンエンジンと電気モーターに よる走行にもどります EV ドライブモード EV ...,イブモード表示灯が点灯します もう一度スイッチを押すと通常走行 ガソリンエンジンと電気モーターに よる走行にもどります EV ドライブモード EV ドライブモードは駆動用電池から電力を供給し電気モータ...,12.61,replace,,1
+Paragraph,doc_a_section_179_chunk_1,,グレードオプションなどにより装備の有無があります 自動または手動でヘッドランプなどを点灯できます 操作のしかた 1 2 3 4 ハイビームにする 1 2 180 4-3 ランプのつけ方・ ワイパーの使...,,0.0,delete,,1
+Paragraph,doc_a_section_185_chunk_1,doc_b_section_199_chunk_1,給油する前に 知識 193 4-4 給油のしかた 4 運 転 警告 給油するときは 次のことを必ずお守りください お守りいただかないと火災を引き起こすなど重大な傷害におよぶか最悪の 場合死亡につながる...,給油する前に 知識 201 4-4 給油のしかた 4 運 転 警告 給油するときは 次のことを必ずお守りください お守りいただかないと火災を引き起こすなど重大な傷害におよぶか最悪の 場合死亡につながる...,93.09,match,,1
+Paragraph,,doc_b_section_208_chunk_1,,光が目に障害をおよぼす危険はありませんが次のことを必ずお守りください お守りいただかないと重大な視覚障害におよぶか最悪の場合失明につながる おそれがあります 有害なレーザー照射を避けるため前方センサー...,0.0,insert,,1
+Paragraph,,doc_b_section_219_chunk_1,,機能概要 グレードオプションなどにより装備の有無があります 車線逸脱警報機能 車両が車線から逸脱する可能性が ある場合にメーターまたはマルチ インフォメーションディスプレイ の表示および警報ブザーによ...,0.0,insert,,1
+Paragraph,doc_a_section_218_chunk_1,,環境に配慮した経済的な運転のためには次のことを心がけてください 239 4-7 運転のアドバイス 4 運 転 渋滞 加速・減速のくり返しや長い信号待ちは燃費を悪化させますお出 かけ前に交通情報を確認す...,,0.0,delete,,1
+Paragraph,doc_a_section_221_chunk_1,doc_b_section_250_chunk_1,寒冷時に備えて準備や点検など正しく処置していただいた上で適切に 運転してください 冬の前の準備 運転する前に 運転するときは 242 4-7 運転のアドバイス パーキングブレーキをかけるとブレーキ装置...,状況に応じて次のことを行ってください ドアやワイパーが凍結したときは無理に開けたり動かしたりせずぬ るま湯をかけるなどして氷を溶かしすぐに水分を十分にふき取って ください フロントウインドウガラス前の...,7.55,replace,,1
+Paragraph,doc_a_section_225_chunk_1,doc_b_section_254_chunk_1,設定温度に合わせて吹き出し口と風量を自動で調整します エアコン操作スイッチについて 247 5-1 エアコンの使い方 5 室 内 装 備 ・ 機 能 温度を調整する 温度を上げるときは を右へまわし下...,設定温度に合わせて吹き出し口と風量を自動で調整します エアコン操作スイッチについて 307 5-1 エアコンの使い方 5 室 内 装 備 ・ 機 能 温度を調整する 温度を上げるときは を右へまわし下...,53.82,partial,,1
+Paragraph,doc_a_section_231_chunk_1,doc_b_section_261_chunk_1,チ 助手席側シートヒータースイッ チ インジケーターが点灯しますもう一 度ボタンを押すとOFF になります シートヒーター グレードオプションなどにより装備の有無があります フロントシートを暖めること...,チ 助手席側シートヒータースイッ チ インジケーターが点灯しますもう一 度ボタンを押すとOFF になります シートヒーター グレードオプションなどにより装備の有無があります フロントシートを暖めること...,97.12,match,,1
+Paragraph,doc_a_section_232_chunk_1,,フロントインテリア パーソナルランプ P 259 リヤインテリアランプ P 259 ラゲージルームランプ P 119 1 2 3 259 5-2 室内灯のつけ方 5 室 内 装 備 ・ 機 能 X フ...,,0.0,delete,,1
+Paragraph,,doc_b_section_139_chunk_1,,バックドアオープンスイッチを押 したままバックドアを持ち上げる バックドアオープンスイッチを押した あと約１秒間はバックドアを閉める ことができません バックドア バックドアは次の方法で施錠・解錠およ...,0.0,insert,,1
+Paragraph,doc_a_section_235_chunk_1,doc_b_section_265_chunk_1,263 ボトルホルダーP 265 カップホルダーP 264 警告 メガネ・ライターやスプレー缶を収納装備内に放置したままにしないでくださ い 放置したままでいると次のようなことが起こるおそれがあり危険...,323 ボトルホルダーP 325 カップホルダーP 324 警告 メガネ・ライターやスプレー缶を収納装備内に放置したままにしないでくださ い 放置したままでいると次のようなことが起こるおそれがあり危険...,35.94,partial,,1
+Paragraph,doc_a_section_237_chunk_1,doc_b_section_268_chunk_1,前方をさえぎるにはバイザーを 下ろす 側方をさえぎるにはバイザーを 下ろした状態でフックからはず し横へまわす カバーをスライドして開ける その他の室内装備 サンバイザー 1 2 バニティミラー グレ...,前方をさえぎるにはバイザーを 下ろす 側方をさえぎるにはバイザーを 下ろした状態でフックからはず し横へまわす カバーをスライドして開ける その他の室内装備 サンバイザー 1 2 バニティミラー グレ...,9.49,replace,,1
+Paragraph,doc_a_section_244_chunk_1,,ボンネットが少し浮きあがります レバーを引きあげてボンネット を開ける ボンネットステーをステー穴に 挿し込む ボンネット 車内からロックを解除してボンネットを開けます 1 2 3 288 6-2 簡...,,0.0,delete,,1
+Paragraph,doc_a_section_248_chunk_1,doc_b_section_280_chunk_1,補充のしかた 警告 ウォッシャー液を補充するとき ハイブリッドシステムが熱いときやハイブリッドシステム作動中はウォッ シャー液を補充しないでください ウォッシャー液にはアルコール成分が含まれているため...,補充のしかた 警告 ウォッシャー液を補充するとき ハイブリッドシステムが熱いときやハイブリッドシステム作動中はウォッ シャー液を補充しないでください ウォッシャー液にはアルコール成分が含まれているため...,100.0,match,,1
+Paragraph,,doc_b_section_284_chunk_1,,タイプA 2702.7 タイプB 2402.4 タイプC 2302.3 18560R16 86H 16 6J 230 (2.3) 19550R16 84V 16 6J 220 2.2 200 2.0 ...,0.0,insert,,1
+Paragraph,doc_a_section_257_chunk_1,doc_b_section_294_chunk_1,タイヤの空気圧を適正に維持するためにタイヤの空気圧点検を月に1 回以上実施してください低偏平タイヤの場合２週間に1 回または 長距離ドライブの前には必ず空気圧を点検してくださいP 411 知識 298...,タイヤの空気圧を適正に維持するためにタイヤの空気圧点検を月に1 回以上実施してください低偏平タイヤの場合２週間に1 回または 長距離ドライブの前には必ず空気圧を点検してくださいP 477 知識 361...,78.18,match,,1
+Paragraph,doc_a_section_258_chunk_1,doc_b_section_295_chunk_1,エアコンを快適にお使いいただくためにエアコンフィルターを定期的 に交換してください 交換のしかた 1 1 2 3 4 300 6-2 簡単な点検・部品交換 フィルターカバーを取りはずす フィルターカバ...,エアコンを快適にお使いいただくためにエアコンフィルターを定期的 に交換してください 交換のしかた 1 2 3 4 363 6-2 簡単な点検・部品交換 6 お 手 入 れ の し か た フィルターカ...,41.95,partial,,1
+Paragraph,doc_a_section_262_chunk_1,,次に記載する電球はご自身で交換できます電球交換の難易度は電球 によって異なります部品が破損するおそれがあるのでトヨタ販売店 で交換することをおすすめします 電球の用意 バルブ位置 ヘッドランプ 車幅灯...,,0.0,delete,,1
+Paragraph,doc_a_section_289_chunk_1,,故障のときはすみやかに次の指示に従ってください 50m 以上 後方に置く 知識 高速道路や自動車専用道路でやむを得ず 駐停車する場合は停止表示板または停止 表示灯の表示が法律で義務付けられてい ます ...,,0.0,delete,,1
+Paragraph,doc_a_section_302_chunk_1,,警告灯が点灯または点滅したままの場合は落ち着いて次のように対処 してください点灯・点滅してもその後消灯すれば異常ではありませ んただし同じ現象が再度発生した場合はトヨタ販売店で点検を受 けてください ...,,0.0,delete,,1
+Paragraph,doc_a_section_302_chunk_2,,340 グレードオプションなどにより装備の有無があります 338 7-2 緊急時の対処法 1 ブレーキ警告ブザー ブレーキの効き低下につながる異常があると警告灯の点灯と同時にブザーが 鳴ります 2 警...,,0.0,delete,,1
+Paragraph,doc_a_section_302_chunk_3,,397 ヘッドランプがロービームの状態でオートマチック ハイビームスイッチを押した ヘッドランプをハイビームに切りかえる プリクラッシュブレーキおよびプリクラッシュブ レーキアシストが現在機能していな...,,0.0,delete,,1
+Paragraph,doc_a_section_302_chunk_4,,緊急時の対処法 7 万 一 の 場 合 に は 9 回 正規の電子キーが車室内に無い状 態で走行をはじめた 車室内に電子キーがあるか確 認する 連続音 シフトレバーがP 以外の状態で パワースイッチを...,,0.0,delete,,1
+Paragraph,doc_a_section_327_chunk_1,,装着車 タイヤパンク応急修理キット装着車にはスペアタイヤが搭載されてい ません タイヤがパンクしたときにタイヤパンク応急修理キットで応急修理する ことができます釘やねじなどが刺さった程度の軽度なパンク...,,0.0,delete,,1
+Paragraph,doc_a_section_328_chunk_2,,緊急時の対処法 ボトルのホース先端に空気逃が しキャップを取り付ける 空気逃がしキャップを取り付けないと パンク補修液が漏れお車が汚れる可 能性があります ボトルとコンプレッサーを接続したままラゲージ...,,0.0,delete,,1
+Paragraph,doc_a_section_330_chunk_1,,応急修理する前に 知識 359 7-2 緊急時の対処法 7 万 一 の 場 合 に は タイヤパンク応急修理キットと工具の位置 ジャッキハンドル ホイールナットレンチ けん引フック タイヤパンク応急修...,,0.0,delete,,1
+Paragraph,doc_a_section_361_chunk_1,,"ハイブリッドシステムが始動できない原因は状況によって異なります 次のことをご確認いただき適切に対処してください 正しいハイブリッドシステムの始動方法P 160, 164に従って も始動できない 室内灯...",,0.0,delete,,1
+Paragraph,,doc_b_section_420_chunk_1,,も補機バッテリーがあがってハイブリッドシステムの始動ができなくなる おそれがあります 取っ手の付いている補機バッテリーを使用してください 取っ手が付いていない補機バッテリーを使用すると補機バッテリーを...,0.0,insert,,1
+Paragraph,doc_a_section_376_chunk_1,,次のようなときオーバーヒートの可能性があります 対処方法 1 2 398 7-2 緊急時の対処法 ハイブリッドシステムが十分 に冷えてからラジエーターコ ア部放熱部やホースなどか らの冷却水もれを点検...,,0.0,delete,,1
+Paragraph,doc_a_section_418_chunk_1,,こんなときは症状別さくいん キースマートエントリースタートシステム非装着車またはメカ ニカルキースマートエントリースタートシステム装着車をなく した場合トヨタ販売店でトヨタ純正の新しいキーまたはメカニ...,,0.0,delete,,1
+Paragraph,doc_a_section_450_chunk_1,,"アルファベット順さくいん AC エアコン 246 ABS アンチロックブレーキシステム 231, 334 ECB エレクトロニカリーコントロールドブレーキ 231 ECO エコノミーエコロジー 174...",,0.0,delete,,1
+Paragraph,,doc_b_section_233_chunk_1,,知識 239 4-6 運転支援装置について 4 運 転 警告 誤操作を防ぐために クルーズコントロールを使用しないときはONOFF スイッチでシステムを OFF にしてください クルーズコントロールを...,0.0,insert,,1
+Paragraph,doc_a_section_13_chunk_1,doc_b_section_13_chunk_1,点検整備 フロアマット 1 2 23 1-1 安全にお使いいただくために 安 全 ・ 安 心 の た め に 1 警告 次のことを必ずお守りください お守りいただかないとフロアマットがずれて運転中に各...,点検整備 フロアマット 1 2 25 1-1 安全にお使いいただくために 安 全 ・ 安 心 の た め に 1 警告 次のことを必ずお守りください お守りいただかないとフロアマットがずれて運転中に各...,96.75,match,,1
+Paragraph,doc_a_section_14_chunk_1,,安全に運転するために走行前にシートやミラーなどを適切に調整して ください 正しい運転姿勢について 1 2 シートベルトを正しく着用する ミラーを調整する 3 4 25 1-1 安全にお使いいただくため...,,0.0,delete,,1
+Paragraph,doc_a_section_20_chunk_1,doc_b_section_21_chunk_1,運転席SRS エアバッグ助手席SRS エアバッグ 運転者と助手席乗員の頭や胸などへの衝撃を緩和 SRS サイドカーテンシールドエアバッグ SRS フロントサイドエアバッグ フロント席乗員の胸などへの衝...,運転席SRS エアバッグ助手席SRS エアバッグ 運転者と助手席乗員の頭や胸などへの衝撃を緩和 SRS サイドカーテンシールドエアバッグ SRS フロントサイドエアバッグ フロント席乗員の胸などへの衝...,97.38,match,,1
+Paragraph,doc_a_section_20_chunk_2,doc_b_section_21_chunk_2,安全にお使いいただくために SRS エアバッグが作動するとき SRS サイドカーテンシールドエアバッグ SRS サイドカーテンシールドエアバッグは衝撃の強さが設定値約1.5 t の車両が約20 30 ...,安全にお使いいただくために SRS エアバッグが作動するとき SRS サイドカーテンシールドエアバッグ SRS サイドカーテンシールドエアバッグは衝撃の強さが設定値約1.5 t の車両が約20 30 ...,97.06,match,,1
+Paragraph,doc_a_section_32_chunk_1,doc_b_section_22_chunk_1,排気ガスには吸引すると人体に有害な物質が含まれています 警告 排気ガスには無色・無臭で有害な一酸化炭素COが含まれているため次のこ とを必ずお守りください お守りいただかないと排気ガスが車内に侵入し多...,排気ガスには吸引すると人体に有害な物質が含まれています 警告 排気ガスには無色・無臭で有害な一酸化炭素COが含まれているため次のこ とを必ずお守りください お守りいただかないと排気ガスが車内に侵入し多...,100.0,match,,1
+Paragraph,doc_a_section_39_chunk_1,,メーター内の警告灯表示灯でお車の状況をお知らせします 次のイラストは説明のためすべての表示灯警告灯を示しています 79 2 計器の見方 2 メ ー タ ー の 見 方 システム異常などを警告します 警...,,0.0,delete,,1
+Paragraph,,doc_b_section_59_chunk_1,,2 メ ー タ ー の 見 方 システム異常などを警告します 警告灯 グレードオプションなどにより装備の有無があります 赤色 ブレーキ警告灯 P 398 スリップ表示灯 P 399 充電警告灯P 39...,0.0,insert,,1
+Paragraph,,doc_b_section_64_chunk_1,,作動確認のためにパワースイッチをONスマートエントリー スタート システム非装着車またはパワースイッチをON モードスマートエントリー スタートシステム装着車にすると点灯し数秒後またはハイブリッドシス...,0.0,insert,,1
+Paragraph,,doc_b_section_67_chunk_1,,"2 メ ー タ ー の 見 方 システムの作動状況を表示します 表示灯 グレードオプションなどにより装備の有無があります 方向指示表示灯 P 185 1,2 TRC OFF 表示灯 P 291 ハイビ...",0.0,insert,,1
+Paragraph,,doc_b_section_77_chunk_1,,1 作動確認のためにパワースイッチをONスマートエントリースタート システム非装着車またはパワースイッチをON モードスマートエントリー スタートシステム装着車にすると点灯し数秒後またはハイブリッドシ...,0.0,insert,,1
+Paragraph,doc_a_section_67_chunk_1,,グレードオプションなどにより装備の有無があります 1 2 3 4 5 6 7 84 2 計器の見方 シフトポジション表示 現在選択されているシフトポジションを表示しますP 173 スピードメーター 車...,,0.0,delete,,1
+Paragraph,doc_a_section_67_chunk_2,,計器の見方 2 メ ー タ ー の 見 方 メーター・マルチインフォメーションディスプレイの作動条件 X スマートエントリースタートシステム非装着車 パワースイッチがON のとき X スマートエントリ...,,0.0,delete,,1
+Paragraph,doc_a_section_68_chunk_1,doc_b_section_84_chunk_1,"2 メ ー タ ー の 見 方 X マルチインフォメーションディスプレイ非装着車 ドライブモニター P 267 駆動用電池残量表示 現在の駆動用電池残量を8 段階で表示しますP 103, 105 ハイ...","2 メ ー タ ー の 見 方 X マルチインフォメーションディスプレイ非装着車 ドライブモニター P 329 駆動用電池残量表示 現在の駆動用電池残量を8 段階で表示しますP 109, 111 ハイ...",80.8,match,,1
+Paragraph,,doc_b_section_89_chunk_1,,シフトポジション表示 現在選択されているシフトポジションを表示しますP 181 スピードメーター 車両の走行速度を示します X マルチインフォメーションディスプレイ装着車 外気温 外気温度を40 50...,0.0,insert,,1
+Paragraph,,doc_b_section_90_chunk_1,,2 メ ー タ ー の 見 方 オドメータートリップメーター P 96 平均燃費 オドメーターとトリップメーターのどちらを表示しているかによって表示内容が 異なります表示される平均燃費は参考として利用...,0.0,insert,,1
+Paragraph,,doc_b_section_92_chunk_1,,表示される項目 外気温度 外気温度を40 50 の間で表示します 平均燃費 オドメーターとトリップメーターのどちらを表示しているかによって表示内 容が異なります オドメーター表示時ハイブリッドシステム...,0.0,insert,,1
+Paragraph,,doc_b_section_94_chunk_1,,2 メ ー タ ー の 見 方 表示を切りかえるには TRIP スイッチを押すごとに表示 が切りかわります オドメータートリップメーター航続可能距離メーター照度調整表 示カスタマイズモードマルチインフ...,0.0,insert,,1
+Paragraph,,doc_b_section_95_chunk_1,,表示される項目 オドメーター 走行した総距離を表示します トリップメーターA トリップメーターB リセットしてからの走行距離を表示しますトリップメーターは A・B の2 種類で使い分けることができます...,0.0,insert,,1
+Paragraph,,doc_b_section_96_chunk_1,,計器の見方 2 メ ー タ ー の 見 方 カスタマイズモード LDA( レーンデパーチャーアラート) と先行車発進の設定を変更す ることができます 設定変更のしかた オドメーター表示中にTRIP ス...,0.0,insert,,1
+Paragraph,,doc_b_section_98_chunk_1,,表示の切り替え TRIP スイッチを使って次のように操作します 短押し: 表示の切りかえ スイッチを押すごとに表示される項目が切りかわります 長押し: リセット トリップメーターを表示中にスイッチを長...,0.0,insert,,1
+Paragraph,,doc_b_section_99_chunk_1,,2 メ ー タ ー の 見 方 メーター・マルチインフォメーションディスプレイの作動条件 X スマートエントリースタートシステム非装着車 パワースイッチがON のとき X スマートエントリースタートシ...,0.0,insert,,1
